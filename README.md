@@ -1,4 +1,4 @@
-# BlockChain
+# Ethereum Scalability
 Scalability is a major challenge for the Ethereum network, as the number of transactions that can be processed on the network is currently limited. The current limitations of scalability are primarily caused by the fact that all nodes on the network must validate and process every transaction, which can lead to delays and high fees during periods of high network congestion.
 
 There are several solutions that are being proposed and developed to address the scalability issues in Ethereum. Some of these solutions include:

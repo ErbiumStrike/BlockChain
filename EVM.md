@@ -1,4 +1,4 @@
-# BlockChain
+# Ethereum Virtual Machine (EVM)
 The Ethereum Virtual Machine (EVM) is a software environment that runs on the Ethereum blockchain. It is responsible for executing smart contracts on the Ethereum network. The EVM is a virtual machine that runs on the nodes of the Ethereum network and is responsible for enforcing the rules of the Ethereum protocol, including the execution of smart contracts.
 
 Smart contracts are self-executing contracts with the terms of the agreement between buyer and seller being directly written into lines of code. These contracts are stored on the blockchain, which allows them to be executed automatically when certain conditions are met. The EVM is responsible for executing these smart contracts, ensuring that they are executed according to the rules of the Ethereum protocol.
